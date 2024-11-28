@@ -16,15 +16,15 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
-    instagramId: process.env.Insta || "3.69_pika",
+    ownername: process.env.Owner_Name || "Alvin",
+    ownernumber: process.env.Owner_Number || "254104916091",
+    instagramId: process.env.Insta || "@mistahxe",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "𝐏𝐢𝐤𝐚𝐁𝐨𝐭𝐳 🌚🌙",
-    packname: process.env.PackName || "𝕼𝖚𝖊𝖊𝖓 𝕬𝖓𝖞𝖆 𝖁2 𝕾𝖙𝖎𝖈𝖐𝖊𝖗 𝕻𝖆𝖈𝖐 🪀",
+    author: process.env.Author || "Alvino",
+    packname: process.env.PackName || "𝕼𝖚𝖊𝖊𝖓 𝕬𝖓𝖞𝖆 𝖁2 ft Alvin ",
     socialLink: process.env.Web || "https://github.com/PikaBotz",
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
@@ -37,7 +37,7 @@ module.exports = {
      */
     image_1: readFileSync('./lib/Assets/image_1.jpg'), // primary image
     image_2: readFileSync('./lib/Assets/image_2.jpg'), // secondry image
-    imageUrl: "https://i.ibb.co/ZKKSZHT/Picsart-23-06-24-13-36-01-843.jpg", // image url, to replace to your url upload your image to https://imgbb.com
+    imageUrl: "https://c.top4top.io/p_3245bgvg80.jpg", // image url, to replace to your url upload your image to https://imgbb.com
     imageMentionUrl: "https://i.ibb.co/ZKKSZHT/Picsart-23-06-24-13-36-01-843.jpg", // image for mention reply audio media
     aliveMedia: readFileSync("./lib/Assets/aliveMedia.mp4"),
     menuMedia: readFileSync('./lib/Assets/menuMedia.mp4'),
